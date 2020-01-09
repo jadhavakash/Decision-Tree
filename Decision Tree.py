@@ -1,9 +1,6 @@
 
 ####-------------------Decision Tree algorithms in python----------------------------------------------####
-#    Version   :     1.1
-#    Author    :     Ravi PAUL
-#    Date      :     18th Sept.2019
-#
+#    
 # we will cover following topics :
 # Preprocessing of data.
 # EDA Analysis
